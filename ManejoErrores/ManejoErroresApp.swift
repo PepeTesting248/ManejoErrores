@@ -11,7 +11,7 @@ import SwiftUI
 struct ManejoErroresApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() /// ESTO ES UN COMENTARIO
         }
     }
 }
